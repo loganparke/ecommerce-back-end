@@ -5,4 +5,4 @@ you can view all or one of, edit, delete, or add to the table of catagories, pro
 
 attached below is a walk through video demonstrating how to use the application
 
-### Walk-Through Video
+### Walk-Through Video:
